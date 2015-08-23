@@ -10,7 +10,7 @@ The tidy data set has following variables
 
 2: Activity: 6 Activities were undertaken, activity names explain those.
 
-3: Measurements: Following variables are mapped to the original variables
+3: Measurements: All the measurements are the mean values across various tests. Original variables are mapped to new variables for readability purpose. Following variables are mapped to the original variables.  
 
 
 Variable name in Tidy set		Variable name in original Data
